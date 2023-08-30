@@ -12,5 +12,5 @@ join the discord https://discord.gg/RrtwRWmKUc !
 </p>
 
 <p align="center">
-  <em>Darian on top.</em>
+  <em>Darian on top</em>
 </p>
