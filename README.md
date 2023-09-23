@@ -12,7 +12,7 @@ The #1 homework utility
 3. Name it.
 4. In the URL field, paste in the DevHaxx code for your desired site
 5. Save the bookmark.
-6. Visit i-Ready and click the bookmark to execute the code.
+6. Visit the site and click the bookmark to execute the code.
 
 ## What is DevHaxx?
 DevHaxx is a utility for pointing out the common issues with HW sites
