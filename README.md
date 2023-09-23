@@ -8,7 +8,7 @@ The #1 homework utility
 # Sites
 [i-Ready](https://raw.githubusercontent.com/DevTech-Services/DevHaxx/main/i-Ready.js)
 <br>
-[brainPop](https://raw.githubusercontent.com/DevTech-Services/DevHaxx/main/brainpop.js)
+[brainPop](https://raw.githubusercontent.com/DevTech-Services/DevHaxx/main/brainPop.js)
 # How to use DevHaxx free?
 
 1. Open your browser.
