@@ -10,7 +10,7 @@ The #1 i-Ready utility
 1. Open your browser.
 2. Create a new bookmark.
 3. Name it.
-4. In the URL field, paste in the [DevHaxx code](https://raw.githubusercontent.com/DevTech-Services/DevHaxx/main/DevHaxxFREE.js)
+4. In the URL field, paste in the [DevHaxx code](https://raw.githubusercontent.com/DevTech-Services/DevHaxx/main/i-Ready.js)
 5. Save the bookmark.
 6. Visit i-Ready and click the bookmark to execute the code.
 
