@@ -5,6 +5,7 @@
     
 # DevHaxx
 The #1 homework utility
+**DevHaxx is currently DOWN because of our free slow ass servers**
 # Sites
 [i-Ready](https://login.i-ready.com/)
 <br>
