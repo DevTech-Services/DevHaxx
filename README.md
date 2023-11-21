@@ -5,8 +5,6 @@
 
 [Join the discord!](https://discord.gg/haxx)
 
-# DevHaxx
-The #1 i-Ready utility
 # How to use DevHaxx free?
 
 1. Open your browser.
