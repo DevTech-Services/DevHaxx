@@ -15,8 +15,8 @@ The #1 i-Ready utility
 4. In the URL field, paste in the [Devhaxx Code](https://raw.githubusercontent.com/DevTech-Services/DevHaxx/main/devHaxx-iready.js)
 5. Save the bookmark.
 6. Visit i-ready and click the bookmark
-   \n
-   **Note: if the bookmark isnt showing, click ctrl + shift + b**
+
+**Note: if the bookmark isnt showing, click ctrl + shift + b**
 
 ## What is DevHaxx?
 DevHaxx is a utility for pointing out the common issues with i-ready
