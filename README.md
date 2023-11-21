@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://dariandev.com">
     <img alt="DevHaxx" src="https://github.com/DevTech-Services/DevHaxx/blob/main/DevHaxx.png?raw=true">
+    [discord.gg/haxx](https://discord.gg/haxx)
 </p>
     
 # DevHaxx
@@ -11,7 +12,7 @@ The #1 i-Ready utility
 1. Open your browser.
 2. Create a new bookmark.
 3. Name it.
-4. In the URL field, paste in the [Devhaxx Code](https://raw.githubusercontent.com/DevTech-Services/DevHaxx/main/devHaxxLoader.js)
+4. In the URL field, paste in the [Devhaxx Code](https://raw.githubusercontent.com/DevTech-Services/DevHaxx/main/devHaxx-iready.js)
 5. Save the bookmark.
 6. Visit i-ready and click the bookmrk
    **Note: if the bookmark isnt showing, click ctrl + shift + b**
