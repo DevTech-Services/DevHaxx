@@ -7,7 +7,6 @@
 
 # DevHaxx
 The #1 i-Ready utility
-## DevHaxx is currently DOWN because of our free slow ass servers
 # How to use DevHaxx free?
 
 1. Open your browser.
