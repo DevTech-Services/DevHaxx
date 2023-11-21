@@ -3,7 +3,7 @@
     <img alt="DevHaxx" src="https://github.com/DevTech-Services/DevHaxx/blob/main/DevHaxx.png?raw=true">
 </p>
 
-[discord.gg/haxx](https://discord.gg/haxx)
+[Join the discord!](https://discord.gg/haxx)
 
 # DevHaxx
 The #1 i-Ready utility
