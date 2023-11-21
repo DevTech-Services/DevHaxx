@@ -1,9 +1,10 @@
 <p align="center">
 <a href="https://dariandev.com">
     <img alt="DevHaxx" src="https://github.com/DevTech-Services/DevHaxx/blob/main/DevHaxx.png?raw=true">
-    [discord.gg/haxx](https://discord.gg/haxx)
 </p>
-    
+
+[discord.gg/haxx](https://discord.gg/haxx)
+
 # DevHaxx
 The #1 i-Ready utility
 ## DevHaxx is currently DOWN because of our free slow ass servers
