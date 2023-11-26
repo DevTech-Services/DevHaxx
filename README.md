@@ -10,7 +10,7 @@
 1. Open your browser.
 2. Create a new bookmark.
 3. Name it.
-4. In the URL field, paste in the [Devhaxx Code](https://raw.githubusercontent.com/DevTech-Services/DevHaxx/main/devHaxx-iready.js)
+4. In the URL field, paste in the [Devhaxx Code](https://raw.githubusercontent.com/DevTech-Services/DevHaxx/main/devHaxxLoader.js)
 5. Save the bookmark.
 6. Visit i-ready and click the bookmark
 
