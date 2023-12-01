@@ -20,6 +20,8 @@
 DevHaxx is a utility for pointing out the common issues with i-ready
 # How do i get premium>
 join the discord https://discord.gg/RrtwRWmKUc !
+# where's brainpop?
+moved [here.](https://github.com/DevTech-Services/devhaxx-brainpop)
 </p>
 
 <p align="center">
