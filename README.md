@@ -3,9 +3,11 @@
     <img alt="DevHaxx" src="https://github.com/DevTech-Services/DevHaxx/blob/main/DevHaxx.png?raw=true">
 </p>
 
-# DevHaxx
-Currently, the BEXT i-Ready.com exploit
+## What is DevHaxx?
+DevHaxx is a utility for pointing out the common issues with i-Ready.
+Currently the BEST i-Ready Utility
 ### PLEASE JOIN THE DISCORD
+[discord.gg/haxx](https://discord.gg/haxx)
 
 # How to use DevHaxx free?
 
@@ -18,8 +20,6 @@ Currently, the BEXT i-Ready.com exploit
 
 **Note: if the bookmark isnt showing, click ctrl + shift + b**
 
-## What is DevHaxx?
-DevHaxx is a utility for pointing out the common issues with i-Ready.
 # How do I get premium?
 join the discord! [.gg/haxx](https://discord.gg/haxx)
 # Where's Brainpop?
