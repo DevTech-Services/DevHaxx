@@ -3,7 +3,9 @@
     <img alt="DevHaxx" src="https://github.com/DevTech-Services/DevHaxx/blob/main/DevHaxx.png?raw=true">
 </p>
 
-
+# DevHaxx
+Currently, the BEXT i-Ready.com exploit
+### PLEASE JOIN THE DISCORD
 
 # How to use DevHaxx free?
 
