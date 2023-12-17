@@ -20,7 +20,7 @@ Currently the BEST i-Ready Utility
 
 **Note: if the bookmark isnt showing, click ctrl + shift + b**
 
-# How do I get premium?
+# How do I get quiz skipper?
 join the discord! [.gg/haxx](https://discord.gg/haxx)
 # Where's Brainpop?
 Moved [here.](https://github.com/DevTech-Services/devhaxx-brainpop)
