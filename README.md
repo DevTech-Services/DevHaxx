@@ -18,7 +18,7 @@ Currently the BEST i-Ready Utility
 5. Save the bookmark.
 6. Visit i-ready and click the bookmark
 
-**Note: if the bookmark isnt showing, click ctrl + shift + b**
+**Note: if the bookmark bar isnt showing, click ctrl + shift + b**
 
 # How do I get quiz skipper?
 join the discord! [.gg/haxx](https://discord.gg/haxx)
