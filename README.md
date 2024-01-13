@@ -7,7 +7,7 @@
 DevHaxx is a utility for pointing out the common issues with i-Ready.
 Currently the BEST i-Ready Utility
 ### PLEASE JOIN THE DISCORD
-[discord.gg/haxx](https://discord.gg/haxx)
+[discord.gg/devhaxx](https://devhaxx.xyz)
 
 # How to use DevHaxx free?
 
