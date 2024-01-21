@@ -7,7 +7,7 @@
 DevHaxx is a utility for pointing out the common issues with i-Ready.
 Currently the BEST i-Ready Utility
 ### PLEASE JOIN THE DISCORD
-[discord.gg/iready](https://devhaxx.xyz)
+[devhaxx.xyz](https://devhaxx.xyz)
 
 # How to use DevHaxx free?
 
@@ -21,7 +21,7 @@ Currently the BEST i-Ready Utility
 **Note: if the bookmark bar isnt showing, click ctrl + shift + b**
 
 # How do I get quiz skipper?
-join the discord! [.gg/haxx](https://discord.gg/haxx)
+join the discord! [devhaxx.xyz](https://devhaxx.xyz)
 # Where's Brainpop?
 Moved [here.](https://github.com/DevTech-Services/devhaxx-brainpop)
 </p>
