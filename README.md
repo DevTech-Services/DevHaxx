@@ -4,4 +4,4 @@
 </p>
 
 ## DevHaxx
-DevHaxx is discontinued due to legal reasons. the code will no longer work.
+DevHaxx is discontinued due to legal reasons. The code will no longer work.
