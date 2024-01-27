@@ -1,4 +1,9 @@
 <p align="center">
+<a href="https://dariandev.com">
+    <img alt="DevHaxx" src="https://github.com/DevTech-Services/DevHaxx/blob/main/haxx.png?raw=true">
+</p>
+
+<p align="center">
 DevHaxx is permanently discontinued. To hear why, read the message down below;
 <p align="center">
 To whom it may concern,
