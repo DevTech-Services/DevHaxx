@@ -19,4 +19,4 @@ Thank you for your attention to this matter.
 This will also no longer be updated.
 <p align="center">
 Sincerely, The DevTech Team. <br>
-© 2022 - 2024
+© 2023 - 2024
