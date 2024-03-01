@@ -1,22 +1,15 @@
 <p align="center">
-<a href="https://dariandev.com">
+<a href="https://discord.gg/nullify">
     <img alt="DevHaxx" src="https://github.com/DevTech-Services/DevHaxx/blob/main/haxx.png?raw=true">
-</p>
 
-<p align="center">
-DevHaxx is permanently discontinued. To hear why, read the message down below;
-<p align="center">
-To whom it may concern,
-<p align="center">
-We, the DevHaxx  developers would want to clarify that we do not approve of or promote the use of our exploit to rig iReady tests. Our exploit was created solely as a proof of concept to highlight possible weaknesses in the iReady system and for educational reasons.
-<p align="center">
-We apologize for any harm that may have been caused and accept that our actions may have unintended side effects. We never intended to compromise the fairness of educational evaluations or to give any student or group of students an unfair advantage.
-<p align="center">
-As a result, we officialy condemn and strongly discourage using the DevHaxx exploit in any way. We hope that both instructors and students would decide to achieve academic greatness by working hard and honestly, without turning to unfair or unethical tactics of gaining an advantage.
-<p align="center">
-Thank you for your attention to this matter.
-<p align="center">
-This will also no longer be updated.
-<p align="center">
-Sincerely, The DevTech Team. <br>
+Dear DevHaxx Users,
+We regret to inform you that we are discontinuing the DevHaxx project and we want to provide you with some insights into this conclusion.
+
+DevHaxx was initially created for educational purposes, with the intention of exploring and understanding the inner workings of the i-Ready platform. The aim was to provide Curriculum Associates useful tips on how to improve the "i-Ready" platforms security.
+
+We want to emphasize that DevHaxx was never intended for malicious purposes. Our primary goal was to promote educational exploration and responsible use of technology. We appreciate the support and engagement from the community during the project's lifespan.
+
+As we move forward, we encourage users to respect the decision to discontinue the project and refrain from any further use or distribution of DevHaxx. We remain committed to fostering a positive and ethical use of technology.
+
+Sincerely, The DevTech Team.
 © 2023 - 2024
