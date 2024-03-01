@@ -3,18 +3,14 @@
         <img alt="DevHaxx" src="https://github.com/DevTech-Services/DevHaxx/blob/main/haxx.png?raw=true">
     </a>
 </p>
-
+<center><a href="https://discord.gg/nullify" style="color: #7289DA;">discord.gg/nullify</a></center>
+<br>
 <p align="center">
     Dear DevHaxx Users,
 </p>
 
 <p align="center">
     We regret to inform you that we are discontinuing the DevHaxx project and we want to provide you with some insights into this conclusion.
-</p>
-
-<p align="center">
-    <h6>You can support our future projects by joining our Discord!</h6>
-    <a href="https://discord.gg/nullify" style="color: #7289DA;">discord.gg/nullify</a>
 </p>
 
 <p align="center">
