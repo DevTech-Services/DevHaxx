@@ -3,7 +3,7 @@
         <img alt="DevHaxx" src="https://github.com/DevTech-Services/DevHaxx/blob/main/haxx.png?raw=true">
     </a>
 </p>
-<center><a href="https://discord.gg/nullify" style="color: #7289DA;">discord.gg/nullify</a></center>
+<center><a href="https://discord.gg/nullify">discord.gg/nullify</center>
 <br>
 <p align="center">
     Dear DevHaxx Users,
