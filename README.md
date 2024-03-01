@@ -5,7 +5,7 @@
 Dear DevHaxx Users,
 We regret to inform you that we are discontinuing the DevHaxx project and we want to provide you with some insights into this conclusion.
 
-<center><h6> You can support our future projects by joining our Discord! [discord.gg/nullify](https://discord.gg/nullify) </h6></center>
+<center><h6> You can support our future projects by joining our Discord!</h6>[discord.gg/nullify](https://discord.gg/nullify)</center>
 
 
 DevHaxx was initially created for educational purposes, with the intention of exploring and understanding the inner workings of the i-Ready platform. The aim was to provide Curriculum Associates useful tips on how to improve the "i-Ready" platforms security.
