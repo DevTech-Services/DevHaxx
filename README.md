@@ -38,3 +38,4 @@
 <p align="center">
     © 2023 - 2024
 </p>
+<!--- DevHaxx i-Ready is discontinued -->
