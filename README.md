@@ -1,8 +1,12 @@
 <p align="center">
-    <a href="https://discord.gg/nullify">
+    <a href="https://discord.gg/haxx">
         <img alt="DevHaxx" src="https://github.com/DevTech-Services/DevHaxx/blob/main/haxx.png?raw=true">
     </a>
 </p>
+<p align="center">
+    <a href="https://discord.gg/haxx">discord.gg/haxx</a>
+</p>
+
 <p align="center">
     <a href="https://discord.gg/nullify">discord.gg/nullify</a>
 </p>
