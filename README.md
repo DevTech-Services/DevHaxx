@@ -4,7 +4,7 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://discord.gg/nullify">discord.gg/nullify</a>
+    <a href="https://devhaxx.xyz/">join our Discord for future projects!</a>
 </p>
 <br>
 <p align="center">
